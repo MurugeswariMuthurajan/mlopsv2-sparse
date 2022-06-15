@@ -8,7 +8,7 @@ variables:
   ap_vm_image: ubuntu-20.04
 
   namespace: mlopsv9
-  postfix: 0519
+  postfix: 0579
   location: eastus
   environment: prod
   enable_aml_computecluster: true
